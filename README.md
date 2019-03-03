@@ -38,4 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 一.开发android程序遇到的问题
+
 1.运行键是灰色的。
+
+2.emulator: ERROR: x86 emulation currently requires hardware acceleration!
